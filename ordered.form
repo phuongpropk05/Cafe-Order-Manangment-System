@@ -37,7 +37,7 @@
           <Properties>
             <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
               <Table columnCount="3" rowCount="18">
-                <Column editable="true" title="T&#xea;n &#x111;&#x1ed3;" type="java.lang.String">
+                <Column editable="false" title="T&#xea;n &#x111;&#x1ed3;" type="java.lang.String">
                   <Data value="matcha"/>
                   <Data value="null"/>
                   <Data value="null"/>
@@ -57,7 +57,7 @@
                   <Data value="null"/>
                   <Data value="null"/>
                 </Column>
-                <Column editable="true" title="Gi&#xe1; ti&#x1ec1;n" type="java.lang.Integer">
+                <Column editable="false" title="Gi&#xe1; ti&#x1ec1;n" type="java.lang.Integer">
                   <Data value="45000"/>
                   <Data value="null"/>
                   <Data value="null"/>
